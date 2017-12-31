@@ -12,6 +12,8 @@ Request to make a Function Inline may be rejected if...
 */
 
 inline float multiply(float , float );
+// IF YOU WANT TO MAKE A Class Function Inline...
+// You must add the Keyword INLIINE AT THE FUNCTION DEFINITION(NO @ DECLARATION)
 
 int main(){
 	cout<<"Enter a Number\n";
